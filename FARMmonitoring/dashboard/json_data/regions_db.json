@@ -1,0 +1,19 @@
+{
+  "National Capital Region": "ncr",
+  "Ilocos Region": "r1",
+  "Cagayan Valley": "r2",
+  "Central Luzon": "r3",
+  "CALABARZON": "r4a",
+  "Cordillera Administrative Region": "car",
+  "Bicol Region": "r5",
+  "Western Visayas": "r6",
+  "Central Visayas": "r7",
+  "Eastern Visayas": "r8",
+  "Zamboanga Peninsula": "r9",
+  "Northern Mindanao": "r10",
+  "Davao Region": "r11",
+  "SOCCSKSARGEN": "r12",
+  "BARMM": "barmm",
+  "Caraga Region": "r13",
+  "MIMAROPA": "r4b"
+}
